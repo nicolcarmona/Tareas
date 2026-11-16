@@ -1,4 +1,4 @@
-Nombres: Matilde America Martinez Castillo 202473132-7 | Nicol De Lourdes Carmona Guerra 202473005-3
+Nombres: Matilde Martinez | Nicol Carmona
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Explicacion:
 Este juego consiste en que eres Hayao Miyazaki, director de cine, creador de algunas peligulas del estudio Ghibli tales como el Viaje de Chihiro, Ponyo, El Castillo Ambulante, Princesa Mononoke, entre otras, y debes pelear contra los enemigos de dichas peliculas para poder salvar a los personajes que creaste, estos serán represantados mediante amuletos usualmente en eventos. 
