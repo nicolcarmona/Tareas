@@ -1,6 +1,6 @@
 # Tarea-1-INF134
-Matilde América Martínez Castillo (202473132-7)
-Nicol De Lourdes Carmona Guerra (202473005-3)
+Matilde Martínez
+Nicol Carmona
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Nota: En la operacion 3 el usuario debe entregar un valor entre [0,1] para la transparecia de la imagen y en la 4 un valor entre [0,255] para el limite entre blanco y negro.  
 
