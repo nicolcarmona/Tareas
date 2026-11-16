@@ -1,0 +1,125 @@
+INICIO DE ARCHIVO
+HABITACIONES
+19
+0 Tokio (INICIO)
+Abres tus ojos, el sol te pega ligeramente en la cara, escuchas el viento que, afuera pega en los árboles. Te sientas en el borde de la cama y enciendes un cigarrillo. Te preparas para salir a tu oficina que está a un par de cuadras en Koganei, Tokio. Te subes en tu Citroën 2 CV y luego de manejar un rato, llegas a tu estudio. "¡Buenos días señor Miyazaki!", escuchas a lo lejos. Te dispones a trabajar en tu nuevo proyecto de película y se acerca a tu ventana, un ave grande de color azul y blanca. Te dice que el día de hoy será diferente a los demás, tienes una misión que cumplir. Te muestra una puerta la cual te lleva a un campo muy parecido a los que haz dibujado para tus películas. "¡Tus personajes están en peligro!, deberás pelear contra tus propios villanos para poder rescatarlos"
+1 Sendero (EVENTO)
+¡Felicitaciones! Haz encontrado un amuleto
+2 Tren (COMBATE)
+Entras al mundo mágico de los espíritus, estás observando este nuevo paisaje cuando de repente caes en cuenta de que ¡se acerca una batalla!
+3 Puente (EVENTO)
+¡Felicitaciones! Haz encontrado un amuleto
+4 Koganei (COMBATE)
+Te encuentras en el oeste de Tokio, en una mansión campestre, miras hacia tu alrededor y te encuentras con tu próxima batalla.
+5 Oficina (FIN)
+Te despiertas, tienes un lápiz en la mano y el dibujo que estabas haciendo tiene una mancha de tu propia baba, todo fue un sueño de una siesta en la caíste mientras dibujabas los personajes de Hayao Miyasaki
+6 Ingary (FIN)
+Estás en un reino llamado Ingary, frente a ti hay una mujer de pelo blanco y un traje rojo, no entiendes muy bien lo que pasa, pero sientes que tu cuerpo se transforma, Madame Suliman te ha convertido en un monstro listo para servir al ejercito
+7 Saitama (EVENTO)
+¡Felicitaciones! Haz encontrado un amuleto
+8 Revolución (FIN)
+Vuelves a tu estudio, pensando que eres muy feliz cuando haces tus caricaturas, años haciendo esto, a la gente le encanta tu trabajo. Por alguna razón decides meterte a redes sociales, scroleas y vez una muchacha convertida en tu arte, la cual tu no dibujaste, luego scroleas otra vez y ahora vez una familia al estilo "estudio ghibli"...la IA ha reemplazado tu trabajo...
+9 Londres (FIN)
+Vas caminando por una calle de Londres, a lo lejos ves un puente por el que pasas por abajo, en eso, ves un hombre, de pelo rojizo, chaqueta blanca, polera negra y de fondo suena "never gonna give you up"...¡Te han Rick Rolleado!
+10 Bosque (EVENTO)
+¡Felicitaciones! Haz encontrado un amuleto
+11 Noche (FIN)
+Estás en un bosque, descansando luego de una gran pelea, cae la noche y observas el cielo, piensas en lo terrible que sería que Lady Eboshi logre quedarse con el poder sobre el bosque, lo que sufrirían los animales, como se destruiría el paisaje...De repente ¡PUM! un disparo se oye a lo lejos...Lady Eboshi a matado al Dios ciervo, ahora los animales no tienen de su protección y la tecnología humana avanza arrasando con todo lo que esté a su alcance
+12 Arbol (FIN)
+Vas a recorrer un bello bosque, ves una hermosa semilla dentro de un agujero, la cual decides tomar, tu brazo no alcanza a llegar y te estiras mucho para alcanzarla, pero entonces...caes por el agujero, ruedas, ruedas y cuando caes ves ahí una bola gigante gris, juegas con lo que pareciera ser su cola y luego logras quedar en su panza, abre un poco sus ojos, te acercas a su cara para verlo más de cerca, pero tiene tanto pero tanto sueño, que bosteza, tanta, tanta fuerte que accidentalmente te traga
+13 Castillo (EVENTO)
+¡Felicitaciones! Haz encontrado un amuleto
+14 Costa (FIN)
+Es de noche en el pueblo costero en el que te encuentras. Vas caminando por la calle, pasa una persona por al frente tuyo corriendo desde la costa, luego otra... y otra. Observas que viene un gran tsunami y sobre este, una niña con vestido rojo. Te quedas perplejo observando a la niña y entonces en tsunami te alcanza
+15 Isla_flotante (COMBATE)
+Te encuentras caminando en un bello sendero, muy verde, sientes un aire fresco que te llaga en la cara y te hace sentir verdaderamente vivo. A lo lejos ves algo flotando en el cielo, te vas acercando y es cada vez mas grande, es un castillo. De repente sientes que alguien te toca el hombro, ¡cuidado! te enfrentas a una batalla
+16 Computadora (FIN)
+Estas frente a una computadora, miras tus manos y son muy peludas, logras ver tu reflejo y caes en cuenta de que eres un mono...estas escribiendo el final de tu nueva película, pero es entonces cuando escribes "ajskjslsk" (habían pasado 99.187.234.675 años para este momento)
+17 Mirar_atrás (FIN)
+Estás en el mágico mundo de los espíritus, ves un dragón blanco que se acerca a ti, te dice que para que logres salir de este mundo y así volver con tu familia, no debes mirar atrás, pero tu no entiendes por qué te dice esto, entonces decides mirar atrás y quedas encerrado en el mundo de los espíritus hasta que logres entender que no debes mirar atrás y tienes que dejar que el pasado se vaya, para poder vivir tu presente
+18 Piedra_mágica (FIN)
+Estás caminando en un pequeño pueblo minero. Del cielo cae una piedra de color azul con una figura en color amarillo, te parece muy bella y como tiene un hilo que la sostiene, te la colocas de collar y es entonces que llega un avión del cual se bajan muchos hombres, te tacklean, te roban el collar y te secuestran (inspirado en "el castillo en el cielo")
+ARCOS
+18
+0 -> 1
+0 -> 2
+0 -> 3
+1 -> 4
+1 -> 5
+2 -> 6
+2 -> 7
+2 -> 8
+3 -> 9
+4 -> 10
+4 -> 11
+6 -> 12
+6 -> 13
+7 -> 14
+10 -> 16
+10 -> 15
+13 -> 17
+15 -> 18
+ENEMIGOS
+4
+Lady_Eboshi | Vida 15 | Ataque 5 | Precision 0.5 | Probabilidad 0.4
+Yubaba | Vida 15 | Ataque 9 | Precision 0.5 | Probabilidad 0.2
+Muska | Vida 100 | Ataque 20 | Precision 0.03 | Probabilidad 0.05
+Haru | Vida 20 | Ataque 1 | Precision 0.8| Probabilidad 0.3
+EVENTOS
+5
+&
+Amuleto
+Probabilidad 0.25
+Encuentras un amuleto de Sophie
+A: Abrirlo
+Decides abrirlo, pero, oh sorpresa ¡no era Sophie en realidad!
+-0.2 Precision
+B: Dejarlo
+Lo dejas pasar.
+Ninguna consecuencia.
+&
+Chihiro
+Probabilidad 0.25
+Estas buscando a tus padres que están convertidos en cerdos gigantes
+A: Huir
+Huyes y llegas a un barco del cual se bajan espíritus y te llevan a su mundo
+-10 Vida
+B: Hablar con tus padres
+Los rescatas y los logras llevarlos a su casa de vuelta
++0.2 Precision
+&
+Satsuki
+Probabilidad 0.1
+Tu pequeña hermana Mei se ha perdido
+A: Pides ayuda a Totoro para ir a buscarla
+Logras encontrarla sana y salva
++7 Vida
+B: La buscas por tu cuenta
+Tras horas de búsqueda no la encuentras
+-0.3 Precisión
+&
+Mei
+Probabilidad 0.2
+Observas los arboles de alrededor de tu casa y decides ir a investigar el lugar, pero se empieza a oscurecer
+A: Vuelves a casa
+Cuando llegas a tu casa, te das cuenta que comenzó a llover, de la que te salvaste
++5 Vida
+B: Decides investigar el lugar un poco mas
+Comienza a llover muy fuerte y es por esto que te debes quedar a dormir en un paradero
+-0.3 Precisión
+&
+Howl
+Probabilidad 0.2
+Eres un joven Howl y comienzas a notar tus dotes acerca de la magia
+A: Estudiar mas
+Logras mejorar tus técnicas en la magia
++0.3 Precision
+B: No estudiar
+Decides dedicar tu tiempo a otras cosas y pierdes tus dotes en la magia
+-0.1 Precisión
+MEJORAS DE COMBATE
++4 Vida
++0.1 Precision
++1 Ataque
++1 Recuperacion
+FIN DE ARCHIVO
